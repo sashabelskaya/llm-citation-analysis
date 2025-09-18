@@ -40,7 +40,6 @@ Required packages include: pandas, matplotlib, networkx, urllib.
 ```
 data/           # Input CSV files
 outputs/        # Generated graphs, metrics, and CSVs
-scripts/        # Python analysis scripts
 notebooks/      # Jupyter notebooks for exploration
 README.md       # Project documentation
 requirements.txt # Python dependencies
